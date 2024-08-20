@@ -1,0 +1,6 @@
+bubble sort, selection sort,
+insertion sort, shellsort, mergesort e quicksort,
+descrever TODOS os passos de ordenação para a seguinte entrada:
+C O M P U T A C A O U F P I H. 
+No caso do shellsort, considerar os gaps 4 e 1.
+No caso do mergesort, considerar qualquer uma das versões: Top-down ou Bottom-up.
